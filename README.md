@@ -1,6 +1,6 @@
 👋 Hi, I’m @Rytecc
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Java Robotics using WPILIb
+- 🌱 I’m currently learning astrophysics and graphics programming.
 - 📫 How to reach me ryanstechset@gmail.com
 
 <!---
