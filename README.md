@@ -1,6 +1,6 @@
 👋 Hi, I’m @Rytecc
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning astrophysics and graphics programming.
+- 🌱 I’m currently learning astrophysics and C++.
 - 📫 How to reach me ryanstechset@gmail.com
 
 <!---
